@@ -1,0 +1,21 @@
+    .box {
+        font-family: verdana, sans-serif; 
+        font-size: 12px;
+        padding: 5px;
+        margin: 5px;
+        width: 90%;
+        border: 1px solid darkblue;
+        background-color: azure
+    }
+    td, option, input {
+        font-size: 12px;
+        font-family: verdana, sans-serif;
+    }
+    h3 {
+        font-size: 14px;
+        font-family: verdana, sans-serif;
+    }
+    p {
+        font-size: 12px;
+        font-family: verdana, sans-serif;
+    }
